@@ -4,7 +4,7 @@ I'm a software developer who is working mostly with Microsoft tech stack, and wh
 
 You can find me on
 <p >
-    <a href="https://www.linkedin.com/in/ninoslav-djukic-346b93b1/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Ninchuga/Ninchuga/master/assets/linkedin.svg" width="100" height="30" /></a>
+    <a href="https://www.linkedin.com/in/ninoslav-djukic-346b93b1/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Ninchuga/Ninchuga/master/linkedin.svg" width="100" height="30" /></a>
 </p>
 
 <!--
